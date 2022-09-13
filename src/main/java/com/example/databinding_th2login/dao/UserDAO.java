@@ -35,7 +35,7 @@ public class UserDAO {
         u3.setPassword("123456");
         users.add(u3);
 
-        User u4 = new User("alo", "cac", "HI", "alo@yahoo.com", 19);
+        User u4 = new User("alo", "alo", "HI", "alo@yahoo.com", 19);
         users.add(u4);
     }
 
